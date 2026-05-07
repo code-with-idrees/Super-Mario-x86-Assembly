@@ -1,0 +1,77 @@
+======================================================================
+COUNTERFACTUAL GENERATION REPORT
+Generated: 2026-01-25 12:49:04
+======================================================================
+
+OVERVIEW
+----------------------------------------
+Total posts processed:           20,148
+Posts with identity terms:       5,271
+Posts without identity terms:    14,877
+Percentage with identities:      26.16%
+Total counterfactuals generated: 9,431
+
+IDENTITY TERM FREQUENCY
+----------------------------------------
+  women                : 1,531
+  muslim               : 1,046
+  black                : 931
+  gay                  : 792
+  muslims              : 503
+  islam                : 442
+  blacks               : 419
+  woman                : 281
+  girls                : 248
+  girl                 : 231
+  lesbian              : 140
+  islamic              : 126
+  homosexual           : 123
+  gays                 : 107
+  african              : 102
+  female               : 96
+  lesbians             : 57
+  females              : 55
+  africans             : 52
+  homosexuals          : 32
+
+REPLACEMENT DISTRIBUTION
+----------------------------------------
+  lesbian -> straight: 140
+  women -> men: 1,531
+  gay -> straight: 792
+  black -> white: 931
+  females -> males: 55
+  islam -> christianity: 442
+  islam -> judaism: 442
+  blacks -> whites: 419
+  woman -> man: 281
+  muslim -> christian: 1,046
+  muslim -> jewish: 1,046
+  girl -> boy: 231
+  girls -> boys: 248
+  homosexual -> heterosexual: 123
+  muslims -> christians: 503
+  muslims -> jews: 503
+  gays -> straights: 107
+  african -> european: 102
+  islamic -> christian: 126
+  islamic -> jewish: 126
+  female -> male: 96
+  africans -> europeans: 52
+  lesbians -> straights: 57
+  homosexuals -> heterosexuals: 32
+
+POSTS BY NUMBER OF IDENTITY TERMS
+----------------------------------------
+  1 identity term(s): 3,825 posts
+  2 identity term(s): 1,025 posts
+  3 identity term(s): 292 posts
+  4 identity term(s): 97 posts
+  5 identity term(s): 23 posts
+  6 identity term(s): 5 posts
+  7 identity term(s): 2 posts
+  8 identity term(s): 2 posts
+
+======================================================================
+END OF REPORT
+======================================================================
