@@ -1,0 +1,29 @@
+# Visual Studio files
+.vs/
+Debug/
+Release/
+x86/
+x64/
+*.sln.docstates
+*.suo
+*.user
+
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# Game data files (saves/progress)
+highscore.dat
+progress.dat
+player.dat
+
+# Dataset files (if you want to keep them local)
+# counterfactual_dataset.csv
+# counterfactual_dataset.json
+# counterfactual_stats.json
+# counterfactual_report.txt
